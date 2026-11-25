@@ -1,0 +1,18 @@
+{
+  "time_utc": "2026-11-08T18:24:46.354526+00:00",
+  "server": "https://localhost:48189",
+  "checks": {
+    "created_two_dummy_records": true,
+    "unlock_roundtrip": true,
+    "edit_synced": true,
+    "rewrap_and_unlock": true,
+    "delete_synced": true,
+    "logout_revoked": true,
+    "new_client_reunlock": true
+  },
+  "observed_tls": {
+    "protocol": "TLSv1.3",
+    "cipher": "TLS_AES_256_GCM_SHA384"
+  },
+  "scope": "Live HTTPS API and real client service; no Tkinter mouse interaction."
+}

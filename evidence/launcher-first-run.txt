@@ -1,0 +1,78 @@
+First-time setup: creating a private Python environment...
+First-time setup: installing pinned libraries. Internet is needed for this step.
+Collecting alembic==1.20.1 (from -r /workspace/scratch/9a44f6487a33/VaultShield_Simple/requirements.txt (line 3))
+  Downloading alembic-1.20.1-py3-none-any.whl (270 kB)
+Collecting annotated-doc==0.0.5 (from -r /workspace/scratch/9a44f6487a33/VaultShield_Simple/requirements.txt (line 7))
+  Downloading annotated_doc-0.0.5-py3-none-any.whl (5.3 kB)
+Collecting annotated-types==0.8.0 (from -r /workspace/scratch/9a44f6487a33/VaultShield_Simple/requirements.txt (line 11))
+  Downloading annotated_types-0.8.0-py3-none-any.whl (13 kB)
+Collecting anyio==4.16.0 (from -r /workspace/scratch/9a44f6487a33/VaultShield_Simple/requirements.txt (line 15))
+  Downloading anyio-4.16.0-py3-none-any.whl (134 kB)
+Collecting certifi==2026.10.23 (from -r /workspace/scratch/9a44f6487a33/VaultShield_Simple/requirements.txt (line 21))
+  Downloading certifi-2026.10.23-py3-none-any.whl (135 kB)
+Collecting cffi==2.1.1 (from -r /workspace/scratch/9a44f6487a33/VaultShield_Simple/requirements.txt (line 27))
+  Downloading cffi-2.1.1-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl (221 kB)
+Collecting click==8.5.1 (from -r /workspace/scratch/9a44f6487a33/VaultShield_Simple/requirements.txt (line 129))
+  Downloading click-8.5.1-py3-none-any.whl (126 kB)
+Collecting cryptography==50.0.2 (from -r /workspace/scratch/9a44f6487a33/VaultShield_Simple/requirements.txt (line 133))
+  Downloading cryptography-50.0.2-cp311-abi3-manylinux_2_34_x86_64.whl (4.8 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 4.8/4.8 MB 49.7 MB/s eta 0:00:00
+Collecting fastapi==0.162.2 (from -r /workspace/scratch/9a44f6487a33/VaultShield_Simple/requirements.txt (line 194))
+  Downloading fastapi-0.162.2-py3-none-any.whl (151 kB)
+Collecting greenlet==3.5.6 (from -r /workspace/scratch/9a44f6487a33/VaultShield_Simple/requirements.txt (line 198))
+  Downloading greenlet-3.5.6-cp312-cp312-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl (621 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 621.4/621.4 kB 7.3 MB/s eta 0:00:00
+Collecting h11==0.16.0 (from -r /workspace/scratch/9a44f6487a33/VaultShield_Simple/requirements.txt (line 279))
+  Downloading h11-0.16.0-py3-none-any.whl (37 kB)
+Collecting httpcore==1.0.9 (from -r /workspace/scratch/9a44f6487a33/VaultShield_Simple/requirements.txt (line 285))
+  Downloading httpcore-1.0.9-py3-none-any.whl (78 kB)
+Collecting httpx==0.28.1 (from -r /workspace/scratch/9a44f6487a33/VaultShield_Simple/requirements.txt (line 289))
+  Downloading httpx-0.28.1-py3-none-any.whl (73 kB)
+Collecting idna==3.20 (from -r /workspace/scratch/9a44f6487a33/VaultShield_Simple/requirements.txt (line 293))
+  Downloading idna-3.20-py3-none-any.whl (69 kB)
+Collecting mako==1.4.3 (from -r /workspace/scratch/9a44f6487a33/VaultShield_Simple/requirements.txt (line 299))
+  Downloading mako-1.4.3-py3-none-any.whl (80 kB)
+Collecting markupsafe==3.0.4 (from -r /workspace/scratch/9a44f6487a33/VaultShield_Simple/requirements.txt (line 303))
+  Downloading markupsafe-3.0.4-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (22 kB)
+Collecting opentelemetry-api==1.45.2 (from -r /workspace/scratch/9a44f6487a33/VaultShield_Simple/requirements.txt (line 456))
+  Downloading opentelemetry_api-1.45.2-py3-none-any.whl (60 kB)
+Collecting pycparser==3.12 (from -r /workspace/scratch/9a44f6487a33/VaultShield_Simple/requirements.txt (line 460))
+  Downloading pycparser-3.12-py3-none-any.whl (62 kB)
+Collecting pydantic==2.14.3 (from -r /workspace/scratch/9a44f6487a33/VaultShield_Simple/requirements.txt (line 464))
+  Downloading pydantic-2.14.3-py3-none-any.whl (494 kB)
+Collecting pydantic-core==2.50.4 (from -r /workspace/scratch/9a44f6487a33/VaultShield_Simple/requirements.txt (line 470))
+  Downloading pydantic_core-2.50.4-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl (2.3 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.3/2.3 MB 56.4 MB/s eta 0:00:00
+Collecting sqlalchemy==2.0.57 (from -r /workspace/scratch/9a44f6487a33/VaultShield_Simple/requirements.txt (line 612))
+  Downloading sqlalchemy-2.0.57-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (3.5 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.5/3.5 MB 34.5 MB/s eta 0:00:00
+Collecting starlette==1.10.0 (from -r /workspace/scratch/9a44f6487a33/VaultShield_Simple/requirements.txt (line 674))
+  Downloading starlette-1.10.0-py3-none-any.whl (80 kB)
+Collecting typing-extensions==4.16.0 (from -r /workspace/scratch/9a44f6487a33/VaultShield_Simple/requirements.txt (line 678))
+  Downloading typing_extensions-4.16.0-py3-none-any.whl (45 kB)
+Collecting typing-inspection==0.4.5 (from -r /workspace/scratch/9a44f6487a33/VaultShield_Simple/requirements.txt (line 691))
+  Downloading typing_inspection-0.4.5-py3-none-any.whl (14 kB)
+Collecting uvicorn==0.54.0 (from -r /workspace/scratch/9a44f6487a33/VaultShield_Simple/requirements.txt (line 697))
+  Downloading uvicorn-0.54.0-py3-none-any.whl (87 kB)
+Installing collected packages: typing-extensions, pycparser, markupsafe, idna, h11, greenlet, click, certifi, annotated-types, annotated-doc, uvicorn, typing-inspection, sqlalchemy, pydantic-core, opentelemetry-api, mako, httpcore, cffi, anyio, starlette, pydantic, httpx, cryptography, alembic, fastapi
+Successfully installed alembic-1.20.1 annotated-doc-0.0.5 annotated-types-0.8.0 anyio-4.16.0 certifi-2026.10.23 cffi-2.1.1 click-8.5.1 cryptography-50.0.2 fastapi-0.162.2 greenlet-3.5.6 h11-0.16.0 httpcore-1.0.9 httpx-0.28.1 idna-3.20 mako-1.4.3 markupsafe-3.0.4 opentelemetry-api-1.45.2 pycparser-3.12 pydantic-2.14.3 pydantic-core-2.50.4 sqlalchemy-2.0.57 starlette-1.10.0 typing-extensions-4.16.0 typing-inspection-0.4.5 uvicorn-0.54.0
+No broken requirements found.
+Opening VaultShield...
+{
+  "time_utc": "2026-11-08T18:26:38.386362+00:00",
+  "server": "https://localhost:53715",
+  "checks": {
+    "created_two_dummy_records": true,
+    "unlock_roundtrip": true,
+    "edit_synced": true,
+    "rewrap_and_unlock": true,
+    "delete_synced": true,
+    "logout_revoked": true,
+    "new_client_reunlock": true
+  },
+  "observed_tls": {
+    "protocol": "TLSv1.3",
+    "cipher": "TLS_AES_256_GCM_SHA384"
+  },
+  "scope": "Live HTTPS API and real client service; no Tkinter mouse interaction."
+}
